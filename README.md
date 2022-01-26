@@ -8,5 +8,5 @@ Deploy:
 
 Issues:
 
-- Flacky cgroup graphs. Sometimes available sometimes not
+- Flaky cgroup graphs. Sometimes available sometimes not
 - Balena hostname not used by netdata
